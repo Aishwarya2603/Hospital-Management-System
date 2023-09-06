@@ -4,13 +4,6 @@
  
 
 
-## CONTRIBUTORS:
-1. Likhitha Kyatham (190001032)
-2. Mididoddi Mounika (190001036)
-3. Panapakala Pooja Sree (190001043)
-4. Keren Tudu (190001023)
-5. Peddamallu Bhuvana Sree (190001046)
----
 
 # **CONTENTS:**
 ## 1.GENERAL INFORMATION
